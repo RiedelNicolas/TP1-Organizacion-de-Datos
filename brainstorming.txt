@@ -1,0 +1,11 @@
+- % casos se usan palabras sobre clima y ver relacion de veracidad
+- % de veracidad por cada keyword
+- Palabras mas usadas en tweets verdaderos
+- Palabras mas usadas en tweets falsos
+- Locacion con mayor cantidad de tweets verdaderos
+- Locacion con mayor cantidad de tweets falsos
+- % de veracidad de #, links y @
+- comparar veracidad de locaciones
+- veracidad por continente
+
+- que notebook se compile en portada de github
