@@ -1,14 +1,14 @@
-- % casos se usan palabras sobre clima y ver relacion de veracidad
-- % de veracidad por cada keyword
-- Palabras mas usadas en tweets verdaderos
-- Palabras mas usadas en tweets falsos
-- Locacion con mayor cantidad de tweets verdaderos
-- Locacion con mayor cantidad de tweets falsos
-- % de veracidad de #, links y @
-- comparar veracidad de locaciones
-- veracidad por continente
+- % casos se usan palabras sobre desastres (keywords) y ver relacion de veracidad -GONZA
+- % de veracidad por cada keyword	   -GONZA
+- Palabras mas usadas en tweets verdaderos -NICO
+- Palabras mas usadas en tweets falsos	   -NICO	
+- Locacion con mayor cantidad de tweets verdaderos	-HUGO
+- Locacion con mayor cantidad de tweets falsos		-HUGO
+- % de veracidad de #, links y @	   -NICO
+- comparar veracidad de locaciones	   -EZE
+- veracidad por continente		   -EZE	
 
-- que notebook se compile en portada de github
+- que notebook se compile en portada de github -NICO
 
 
 Probando git xD
