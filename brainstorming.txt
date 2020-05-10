@@ -2,7 +2,7 @@
 - % de veracidad por cada keyword	   -GONZA
 - Palabras mas usadas en tweets verdaderos -NICO
 - Palabras mas usadas en tweets falsos	   -NICO	
-- Locacion con mayor cantidad de tweets verdaderos	-HUGO
+- Locacion con mayor cantidad de tweets verdaderos	-HUGO (DONE -Revisenlo)
 - Locacion con mayor cantidad de tweets falsos		-HUGO
 - % de veracidad de #, links y @	   -NICO
 - comparar veracidad de locaciones	   -EZE
