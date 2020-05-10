@@ -9,6 +9,7 @@
 - veracidad por continente		   -EZE	
 
 - que notebook se compile en portada de github -NICO
+- cantidad de PALBARAS por tweets -Nico 
 
 MAS:
 -agregar analisis del finger
