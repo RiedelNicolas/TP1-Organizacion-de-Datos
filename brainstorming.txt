@@ -12,4 +12,4 @@
 - cantidad de PALBARAS por tweets -Nico 
 
 MAS:
--agregar analisis del finger
+-agregar analisis del finger-Nico
