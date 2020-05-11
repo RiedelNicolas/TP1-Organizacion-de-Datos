@@ -13,3 +13,4 @@
 
 MAS:
 -Agregar analisis del finger-Gonza
+-Contienen una ciudad en el texto. 
