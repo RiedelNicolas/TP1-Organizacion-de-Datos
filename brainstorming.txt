@@ -4,7 +4,7 @@
 - Palabras mas usadas en tweets falsos	   -NICO	
 - Locacion con mayor cantidad de tweets verdaderos	-HUGO (DONE -Revisenlo)
 - Locacion con mayor cantidad de tweets falsos		-HUGO
-- % de veracidad de #, links y @	   -NICO
+- % de veracidad de #, links y @	   -Gonza, Tambien Mayus
 - comparar veracidad de locaciones	   -EZE
 - veracidad por continente		   -EZE	
 
@@ -12,4 +12,4 @@
 - cantidad de PALBARAS por tweets -Nico 
 
 MAS:
--agregar analisis del finger-Nico
+-Agregar analisis del finger-Gonza
