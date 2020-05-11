@@ -1,10 +1,10 @@
-- % casos se usan palabras sobre desastres (keywords) y ver relacion de veracidad -GONZA
-- % de veracidad por cada keyword	   -GONZA
+- % casos se usan palabras sobre desastres (keywords) y ver relacion de veracidad -GONZA (listo)
+- % de veracidad por cada keyword	   -GONZA (listo)
 - Palabras mas usadas en tweets verdaderos -NICO
 - Palabras mas usadas en tweets falsos	   -NICO	
 - Locacion con mayor cantidad de tweets verdaderos	-HUGO (DONE -Revisenlo)
 - Locacion con mayor cantidad de tweets falsos		-HUGO
-- % de veracidad de #, links y @	   -Gonza, Tambien Mayus
+- % de veracidad de #, links y @	   -GONZA, Tambien Mayus
 - comparar veracidad de locaciones	   -EZE
 - veracidad por continente		   -EZE	
 
