@@ -1,0 +1,98 @@
+\documentclass[titlepage,a4paper]{article}
+
+\usepackage{a4wide}
+\usepackage[colorlinks=true,linkcolor=black,urlcolor=blue,bookmarksopen=true]{hyperref}
+\usepackage{bookmark}
+\usepackage{fancyhdr}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{tabularx}
+\usepackage{tabto}
+\usepackage{pgfgantt}
+\usepackage{xcolor}
+\usepackage{wrapfig}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{subcaption}
+
+
+
+\pagestyle{fancy} % Encabezado y pie de página
+\fancyhf{}
+\fancyhead[L]{El cuarteto imperial - TP1}
+\fancyhead[R]{75.06 Organización de Datos - FIUBA}
+\renewcommand{\headrulewidth}{0.4pt}
+\fancyfoot[C]{\thepage}
+%\renewcommand{\footrulewidth}{0.4pt}
+
+\begin{document}
+\begin{titlepage} % Carátula
+    
+	\hfill\includegraphics[width=6cm]{logofiuba.jpg}
+    \centering
+    \vskip1cm
+    \Huge \textbf{UBA - Facultad de Ingeniería}
+    \vskip0.25cm
+    \LARGE{Departamento de Computación}    
+    \vskip0.25cm
+    \LARGE{Organización de Datos (75.06)}
+    \vskip1.2cm
+    \vskip0.3cm
+    \Huge \textbf{Trabajo Práctico 1} 
+    \vskip0.5cm
+    \LARGE{1er cuatrimestre - 2020}
+    \vskip1.5cm
+    \large
+  	\begin{center}
+    \begin{tabular}{||{7cm}||{2cm}||{6cm}||}
+     \hline
+     \multicolumn{3}{||c||}{GRUPO: \textbf{El Cuarteto Imperial}} \\ [0.5ex]
+     \hline
+     \hline
+     \centering{\textbf{Alumno}} & \textbf{Padrón} & \textbf{Mail}\\ \hline
+          LARREA BUENDÍA, Hugo Marcelo & xxxx & xxxx@fi.uba.ar\\ \hline
+          MARTINEZ SASTRE, Gonzalo Gabriel & 102321 & \normalsize gonzalomartinezsastre@gmail.com \\ \hline
+          RIEDEL, Nicolás Agustín & 102130 & nriedel@gmail.com\\ \hline
+          ZBOGAR, Ezequiel & 102216 & ezbogar@fi.uba.ar\\ \hline
+    \end{tabular}
+    \end{center}
+     
+    \end{titlepage}
+    
+\tableofcontents
+\newpage
+\setlength{\parskip}{2mm}
+\section{Resumen}\label{sec:resumen}
+Nuestro Trabajo Práctico se basa en un circuito electrónico controlado por una computadora central programable llamada Arduino, que emula el juego SIMON.  
+
+Teníamos como objetivo utilizar los conocimientos adquiridos en la materia y puestos en práctica con las fichas de laboratorio para llevar a cabo el proyecto.    
+
+Nuestra intención era lograr mediante la realización del trabajo familiarizarnos con el funcionamiento y desarrollo de un sistema que use un microcontrolador programable por su amplia versatilidad y aplicabilidad. 
+
+
+
+\newpage
+
+\section{Introducción}\label{sec:intro}
+    El objetivo de este informe es exponer el proyecto del juego SIMON realizado por el grupo 2 de la materia Laboratorio(66.02). Se detallarán los procesos llevados a cabo para su diseño y construcción, además de las mediciones realizadas que se encuentran relacionadas con los contenidos teóricos relevantes a este curso.
+    
+    \begin{figure}[H]
+    \centering
+    \includegraphics[width=0.4\textwidth]{SIMON.jpg}
+    \caption{\label{fig:class01}El juego SIMON.}
+    \end{figure}
+
+    \subsection{Consideraciones y propuestas analizadas}
+        Inicialmente se tenía planeado, además de hacer el SIMON, construir también una fuente de alimentación. Finalmente se decidió con ayuda del JTP y ayudantes del Labi que era una complicación innecesaria y simplemente se siguió adelante con el proyecto del juego sin la fuente. Para alimentarlo, se utiliza el puerto usb de una computadora, o en su defecto, una batería de 9V.
+        Por ultimo, se consideró, utilizando el mismo hardware, agregarle otros juegos con un selector al inicio pero al observar que no agregaría nada de interés relevante a los temas estudiados se optó por no hacerlo.
+    
+    \subsection{Versión final del proyecto}
+    Finalmente, una vez determinado cómo realizar el proyecto, se diagramó aproximadamente cómo estarían ubicados los componentes y las líneas de soldadura. Se diseñaron programas de prueba con el software de Arduino para verificar el correcto funcionamiento de los componentes, y cuando todo estaba funcionando correctamente, se procedió a soldar todo a la placa.
+    
+        
+    
+
+\end{document}
